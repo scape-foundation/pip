@@ -15,7 +15,7 @@ theme:
   locale: en
   palette:
     scheme: scapefoundation
-  logo: assets/image/logo_light.png
+  logo: assets/image/pip_logo_light.png
   favicon: assets/favicon/favicon.ico
   # features:
   #   - navigation.tabs
