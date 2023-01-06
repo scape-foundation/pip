@@ -48,13 +48,15 @@ copyright: Copyright &copy; 2023 Stichting Scape Foundation
 hide:
   - footer
 
-# nav:
-#   - Getting Started:
-#       - 'Introduction': 'index.md'
-#       - 'Quick Start': 'quick_start.md'
-#       - 'Template': 'template.md'
-#       - 'Fields': 'fields.md'
-#   - Glossary: 'glossary.md'
-#   - References: 'references.md'
-#   - License: 'license.md'
-#   - Privacy Policy: 'privacy.md'
+nav:
+  - Getting Started:
+      - 'Introduction': 'index.md'
+  - Resources:
+      - 'Glossary': 'resources/glossary.md'
+      - 'Links': 'resources/links.md'
+  - About:
+      - 'Authors': 'about/authors.md'
+  - Legal Information:
+      - 'License': 'legal/license.md'
+      - 'Privacy Policy': 'legal/privacy_policy.md'
+      - 'Disclaimer': 'legal/disclaimer.md'
