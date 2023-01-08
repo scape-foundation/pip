@@ -7,7 +7,30 @@
 </header>
 
 <br/>
+<div align="center">
+  <a href="https://github.com/scape-foundation/pip/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
+  |
+  <a href="https://github.com/scape-foundation/pip/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
+  |
+  <a href="https://github.com/scape-foundation/pip/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
+  |
+  <a href="https://github.com/scape-foundation/pip/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
+  |
+  <a href="https://github.com/scape-foundation/pip/discussions">Start a Discussion</a>
+</div>
+<br/>
+<div align="center">
 
+  [![license](https://img.shields.io/github/license/scape-foundation/pip?color=green&label=license&style=flat-square)](LICENSE.md)
+  [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.pip.eco)](https://www.pip.eco)
+
+  ![stars](https://img.shields.io/github/stars/scape-foundation/pip?color=blue&label=stars&style=flat-square)
+  ![forks](https://img.shields.io/github/forks/scape-foundation/pip?color=blue&label=forks&style=flat-square)
+  ![downloads](https://img.shields.io/github/downloads/scape-foundation/pip/total?color=blue&label=downloads&style=flat-square)
+  ![sponsors](https://img.shields.io/github/sponsors/scape-foundation?color=blue&label=sponsors&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/scape-foundation/pip?color=blue&label=contributors&style=flat-square)
+
+</div>
 <br/>
 <details open="open">
 <summary>Table of Contents</summary>
@@ -20,10 +43,6 @@
 - [Contributing](#contributing)
 
 </details>
-
-
-
-
 
 
 ## About
@@ -52,4 +71,3 @@ Except where otherwise noted, **PIP** by the Scape Foundation is licensed under 
 ## Contributing
 
 Contributions from the public are welcome. Refer to the [contribution guidelines](CONTRIBUTING.md) for information on contributing to this project.
-
