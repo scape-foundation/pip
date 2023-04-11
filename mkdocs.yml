@@ -44,7 +44,7 @@ theme:
   # font:
   #   text: 'Manrope'
   #   code: 'Roboto Mono'
-  logo: assets/image/pip_logo_light.png
+  logo: assets/image/logo_light.png
   favicon: assets/favicon/favicon.ico
   features:
     # - announce.dismiss
