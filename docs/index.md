@@ -1,6 +1,6 @@
 <header>
 <p align="center">
-    <img src="assets/image/pip_logo_dark.png" width="20%" height="20%" alt="PIP Logo">
+    <img src="assets/image/logo_color.png" width="20%" height="20%" alt="PIP Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>PIP</h1>
 <h3 align='center'>Positive Impact Passport</h3>
